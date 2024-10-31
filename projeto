@@ -13,7 +13,6 @@ class Estudante:
          self.curso = novo_curso
 
 
-
 class Curso:
     def __init__(self, nome_curso, duracao):
         self.nome_curso = nome_curso
